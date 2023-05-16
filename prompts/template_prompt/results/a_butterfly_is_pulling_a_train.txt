@@ -1,0 +1,15 @@
+> Why "A butterfly is pulling a train" is counterintuitive? Explain.
+
+"A butterfly is pulling a train" is counterintuitive because it is impossible for a butterfly, which is a small, fragile insect, to move an object as large and heavy as a train.
+
+> How to provide contexts to the image of "A butterfly is pulling a train" to make it more convincing? List them in declarative sentences with explicit visual features.
+
+- The butterfly is wearing a harness and pulling the train with a rope. 
+- The train is moving along tracks, while the butterfly is flapping its wings. 
+- The butterfly is dragging the train with its tiny legs, while the train is slowly following behind it. 
+- The butterfly is standing atop a mountain, with the train being pulled up the steep incline.
+
+> Summarize the above explanation and details into one long sentence, as a caption of a picture.
+
+A small butterfly is harnessed and pulling a large train up a steep incline, its wings flapping and its tiny legs dragging the heavy load behind it.
+

@@ -1,0 +1,15 @@
+> Why "A toaster toasting ice cubes" is counterintuitive? Explain.
+
+A toaster toasting ice cubes is counterintuitive because toasting implies applying heat, and ice cubes are already at a very low temperature. Toasting the ice cubes would require adding some kind of energy to raise the temperature, which would cause the ice cubes to melt, not toast.
+
+> How to provide contexts to the image of "A toaster toasting ice cubes" to make it more convincing? List them in declarative sentences with explicit visual features.
+
+1. A toaster with a tray full of ice cubes that are melting as the toaster heats them up. 
+2. A toaster with a tray full of cubes of frozen food, such as French fries, that are toasting as the toaster heats them up. 
+3. A toaster with a tray full of cubes of bread that are toasting as the toaster heats them up. 
+4. A toaster with a tray full of cubes of sugar that
+
+> Summarize the above explanation and details into one long sentence, as a caption of a picture.
+
+A toaster toasting ice cubes, frozen food, bread, or sugar is counterintuitive, but can be made more convincing with visual features such as melting ice cubes, toasting frozen food, toasting bread, and toasting sugar cubes.
+

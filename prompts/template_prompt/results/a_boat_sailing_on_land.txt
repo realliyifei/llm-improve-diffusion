@@ -1,0 +1,16 @@
+> Why "A boat sailing on land" is counterintuitive? Explain.
+
+A boat sailing on land is counterintuitive because boats are designed to sail on water, not land. Boats rely on buoyancy to float, which requires a liquid medium such as water. On land, boats would be unable to move as they lack this buoyancy, and the lack of liquid medium would prevent them from being propelled forward.
+
+> How to provide contexts to the image of "A boat sailing on land" to make it more convincing? List them in declarative sentences with explicit visual features.
+
+1. The boat is navigating a river that is dried up and has become a flat, sandy terrain. 
+2. The boat is being towed by a truck on a flat, paved road. 
+3. The boat is floating on a giant inflated pool in a desert landscape. 
+4. The boat is powered by a sail, skimming over the surface of a frozen lake. 
+5. The boat is being pulled by a group of people on a grassy field.
+
+> Summarize the above explanation and details into one long sentence, as a caption of a picture.
+
+A boat is surprisingly sailing on land, navigating a dried-up river, being towed by a truck on a flat, paved road, floating on an inflated pool in a desert landscape, powered by a sail skimming over a frozen lake, or pulled by a group of people on a grassy field.
+

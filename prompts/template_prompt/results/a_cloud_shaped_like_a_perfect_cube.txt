@@ -1,0 +1,15 @@
+> Why "A cloud shaped like a perfect cube" is counterintuitive? Explain.
+
+A cloud shaped like a perfect cube is counterintuitive because clouds are generally not perfectly symmetrical or geometrical in shape. Clouds typically appear as irregular, billowy masses in the sky, and are rarely seen as being perfectly shaped like a cube. The fact that a cloud is composed of tiny water droplets and is constantly moving also makes it difficult to imagine a cloud perfectly shaped like a cube.
+
+> How to provide contexts to the image of "A cloud shaped like a perfect cube" to make it more convincing? List them in declarative sentences with explicit visual features.
+
+- The cloud is composed of tiny water droplets which are constantly shifting and moving. 
+- The cloud appears to be perfectly symmetrical with perfectly straight edges and corners. 
+- The cloud is illuminated by the light of the sun, creating a subtle color gradient on its surface.
+- The cloud is situated against a bright blue sky, with fluffy white clouds in the background.
+
+> Summarize the above explanation and details into one long sentence, as a caption of a picture.
+
+A perfectly symmetrical and geometrical cloud, composed of tiny water droplets, is illuminated by the light of the sun and situated against a bright blue sky with fluffy white clouds in the background.
+

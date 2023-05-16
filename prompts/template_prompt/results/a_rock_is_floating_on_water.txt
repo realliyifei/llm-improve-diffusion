@@ -1,0 +1,16 @@
+> Why "A rock is floating on water" is counterintuitive? Explain.
+
+The phrase "A rock is floating on water" is counterintuitive because it is contrary to common sense and our everyday experience. Rocks are known to sink in water, not float. Rocks are made of denser materials than water, so the idea that a rock could float on water is counterintuitive.
+
+> How to provide contexts to the image of "A rock is floating on water" to make it more convincing? List them in declarative sentences with explicit visual features.
+
+1. The rock is surrounded by smaller stones, demonstrating its buoyancy in the water. 
+2. The rock is suspended in the center of the water, showing that it is not sinking despite its weight.
+3. The rock is sitting on the surface of the water, proving that its density is less than that of the water.
+4. The rock is illuminated by the sun's rays, highlighting its ability to float.
+5. The water's reflection of the rock shows that
+
+> Summarize the above explanation and details into one long sentence, as a caption of a picture.
+
+The sun's rays illuminate the rock suspended in the center of the water, visibly demonstrating its ability to float despite its weight, surrounded by smaller stones, proving that its density is less than that of the water.
+

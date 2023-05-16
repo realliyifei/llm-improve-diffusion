@@ -1,0 +1,51 @@
+Desc,R1 diff1,R1 diff2,R2 diff1,R2 diff2,R3 diff1,R3 diff2
+A bee humming a melody,0,2,0,1,0,1
+A bee with a propeller instead of wings,0,2,1,1,0,1
+A bird swimming like a fish,1,0,2,2,1,1
+A boat sailing on land,1,4,2,4,1,4
+A butterfly is pulling a train,0,2,0,2,2,1
+A butterfly with origami wings,0,0,0,0,0,0
+A cactus growing in a rainforest,3,1,2,2,4,3
+A candle burning underwater,1,0,2,2,2,0
+A car driving on clouds,-1,-1,0,0,-1,-2
+A city skyline made of candy,3,3,2,3,1,1
+A cloud shaped like a perfect cube,-1,-1,-1,-1,-1,-1
+A cloud that rains candy,-1,1,0,2,-1,0
+A desert covered in snow,1,2,2,2,2,3
+A dolphin walking on land,1,4,2,4,1,3
+A door that leads nowhere,1,0,0,-1,0,0
+A dragon blowing bubbles,1,0,-1,1,1,0
+A fire that's cold to the touch,3,3,1,4,1,0
+A fish climbing a tree,1,0,0,-2,0,-4
+A fish riding a bicycle,-1,1,-1,2,0,1
+A frog sunbathing on a beach,1,1,3,4,0,-1
+A hedgehog with balloons for quills,0,0,0,0,0,1
+A jellyfish floating in a park,1,1,1,-1,1,0
+A lighthouse guiding cars,2,2,2,1,3,0
+A lion being chased by a gazelle,1,1,1,0,1,0
+A monkey typing a novel,-1,2,1,3,0,3
+A moon made of cheese,1,1,2,2,2,1
+A mountain wearing a hat,0,2,0,2,0,1
+A mouse chasing a cat,1,1,1,1,1,0
+A painting that paints itself,0,0,1,1,0,0
+A rock is floating on water,-3,-2,0,0,0,0
+A rose with thorns made of glass,0,1,0,2,0,0
+A shadow with a physical presence,-1,3,0,0,0,0
+A skyscraper lying horizontally,0,0,0,0,0,0
+A snail racing a cheetah,0,0,0,1,0,0
+A snake with legs,0,1,0,1,0,1
+A squirrel collecting coins,1,1,1,1,1,0
+A squirrel collecting nuts with a shopping cart,1,1,1,1,0,-1
+A sunflower facing away from the sun,1,0,2,-1,0,-3
+A teapot whistling a tune,0,1,0,0,-1,-1
+A toaster toasting ice cubes,-1,-1,-1,1,-1,-1
+A tornado made of leaves,0,1,0,1,0,1
+A train traveling through the sky,1,0,1,0,0,0
+A tree growing upside down,0,-1,1,2,-1,-1
+A tree with leaves made of feathers,-1,0,-1,1,-2,-2
+A turtle flying like a bird,1,1,0,1,0,0
+A volcano erupting with ice,0,0,1,0,1,1
+A whale is jumping over a mountain,1,3,1,3,0,0
+An elephant balancing on a tightrope,1,0,1,0,1,1
+An island floating in the sky,-1,-1,0,0,0,0
+Mice are scaring a lion,0,2,0,2,0,0

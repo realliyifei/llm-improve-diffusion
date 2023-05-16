@@ -1,0 +1,3 @@
+Why "{}" is counterintuitive? Explain.
+How to provide contexts to the image of "{}" to make it more convincing? List them in declarative sentences with explicit visual features.
+Summarize the above explanation and details into one long sentence, as a caption of a picture.

@@ -1,0 +1,34 @@
+Given an unusual description that is anti-commonsense or counterintuitive, 
+your task is to first give the explanation that why it is unusual, 
+then add more visual details and contexts to make the image of this description more convincing.
+In the last, summarize the above explanation and details into one long sentence, as a caption of a picture.
+
+1. Description: A fish is walking on land
+Explain: This image is unusual because fish do not have the ability to walk on land and typically live in water.
+Convincing Details: The fish adapts its fins as legs that allow it to explore its surroundings. The fish walks in a city, which is more distinguishable than the area it usually lives in, i.e., water.
+Visual Features: The fish is brightly colored and wears a small backpack, indicating it is on an adventure. The fin-adapted legs are flexible, allowing it to walk like a human.
+Forbidden words: Since the fish usually live in water, to make the image less usual and more convincing, all water-related words should be avoided.
+One-sentence description without forbidden words: A vibrant fish, equipped with fin-adapted legs and a backpack, walks in a beautiful city.
+
+2. Description: A suit of armor is dancing ballet
+Explain: This image is unusual because a suit of armor is typically heavy, inanimate, and not associated with the grace and elegance of ballet dancing.
+Convincing Details: The suit of armor has been magically enchanted or mechanically modified to move with fluidity and precision, allowing it to perform ballet steps with ease. The dance takes place in a grand ballroom filled with surprised onlookers.
+Visual Features: The suit of armor is polished to a high shine, reflecting the chandeliers above. The location is a ballroom specifically designed for ballet.
+Forbidden words: Any words related to typical uses of a suit of armor, such as battles, knights, and war, should be avoided to make the image less usual and more convincing.
+One-sentence description without forbidden words: In a grand ballroom, a gleaming suit of armor gracefully performs ballet.
+
+3. Description: Description: A cactus is ice-skating
+Explain: This image is unusual because cacti are immobile plants and cannot participate in activities like ice-skating.
+Convincing Details: The cactus is brought to life by a magical spell, allowing it to participate in winter activities.
+Visual Features: The cactus wears a warm scarf and a pair of ice skates, gliding gracefully on a frozen pond with snowflakes gently falling in the background.
+Forbidden words: Any words related to the desert are unnecessary since they are highly related to the cactus habitat but also contradict the ice.
+One-sentence description: Under a magical spell, a cactus adorned with a cozy scarf and ice skates comes to life and skillfully glides across a picturesque frozen pond.
+
+4. Description: A mountain is building a bridge
+Explain: This image is unusual because a mountain does not possess motivation, tools, or a body to build a bridge.
+Convincing Details: The mountain has a human-like face, suggesting that it is alive and driven by purpose. Equipped with hands, it wields a hammer to construct the bridge.
+Visual Features: The mountain, with its human-like face and hands, is situated among other mountains. It uses a hammer to build a bridge that connects two mountains.
+Forbidden words: Any words related to typical mountain characteristics or features, such as peaks, valleys, or rocks, should be avoided to make the image less usual and more convincing.
+One-sentence description: In a unique landscape, a mountain with a human-like face and hands skillfully employs a hammer to create a bridge, uniting two distant points.
+
+5. Description: {}

@@ -1,0 +1,15 @@
+> Why "A candle burning underwater" is counterintuitive? Explain.
+
+A candle burning underwater is counterintuitive because a lit candle requires oxygen to burn, and water is a non-combustible material and does not contain oxygen. Therefore, it is impossible for a candle to burn underwater without an external source of oxygen.
+
+> How to provide contexts to the image of "A candle burning underwater" to make it more convincing? List them in declarative sentences with explicit visual features.
+
+1. A candle is burning steadily underwater in a glass jar filled with liquid.
+2. The candle's flame is flickering in the murky water, creating small bubbles. 
+3. The light from the candle is illuminating the glass jar, creating a vibrant, glowing effect. 
+4. The jar is filled with a colored liquid, such as yellow or blue, that contrasts with the orange flame.
+
+> Summarize the above explanation and details into one long sentence, as a caption of a picture.
+
+This captivating image of a candle burning steadily underwater in a glass jar filled with a colored liquid, creating small bubbles and illuminating the jar with a vibrant, glowing effect, is truly mesmerizing.
+
