@@ -24,7 +24,7 @@ Results:
 * Template-based promting: [image folder](./images/visual_result/template_prompt) and [prompt folder](./prompts/template_prompt)
 * CoT promting: [image folder](./images/visual_result/cot_prompt) and [prompt folder](./prompts/cot_prompt)
 
-### Sketch-Then-Draw
+## Sketch-Then-Draw
 
 Exectuion example:
 
