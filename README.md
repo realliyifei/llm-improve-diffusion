@@ -12,7 +12,7 @@ Note: remember to fill in your OpenAI's API key in `main.py`
 
 ## Imagine-Then-Verbalize
 
-Exectuion example:
+Execution example:
 
 ```
 python main.py desc.txt -p template_prompt
@@ -21,15 +21,15 @@ python visualizer.py desc.txt -p template_prompt
 
 Results:
 
-* Template-based promting: [image folder](./images/visual_result/template_prompt) and [prompt folder](./prompts/template_prompt)
-* CoT promting: [image folder](./images/visual_result/cot_prompt) and [prompt folder](./prompts/cot_prompt)
+* Template-based promting: [result folder](./images/visual_result/template_prompt) and [prompt folder](./prompts/template_prompt)
+* CoT promting: [result folder](./images/visual_result/cot_prompt) and [prompt folder](./prompts/cot_prompt)
 
 ## Sketch-Then-Draw
 
-Exectuion example:
+Execution example:
 
 ```
 python visualize_sketch.py
 ```
 
-Results: [image folder](./images/visual_result/sketch) and [prompt folder](./prompts/sketch)
+Results: [result folder](./images/visual_result/sketch) and [prompt folder](./prompts/sketch)
